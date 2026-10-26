@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TrustWalletPro" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#070b13</item>
+        <item name="android:navigationBarColor">#070b13</item>
+        <item name="android:windowBackground">#070b13</item>
+    </style>
+</resources>
